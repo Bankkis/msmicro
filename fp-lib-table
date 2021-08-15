@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name msmicro)(type KiCad)(uri ${KIPRJMOD}/msmicro.pretty)(options "")(descr ""))
+)
